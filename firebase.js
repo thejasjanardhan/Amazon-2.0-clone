@@ -1,13 +1,13 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBVBMfRmBOzcOFbDzaHapNqWDFd45slpbU",
-  authDomain: "facebook-2-e0af1.firebaseapp.com",
-  projectId: "facebook-2-e0af1",
-  storageBucket: "facebook-2-e0af1.appspot.com",
-  messagingSenderId: "806454835477",
-  appId: "1:806454835477:web:099353307a8f80a6ae111c",
-  measurementId: "G-1YHDKKYY9Z",
+  apiKey: "AIzaSyBoRJCaGKCXsr9uWZwkyVoYzLuUeIxWDfA",
+  authDomain: "tinder-clone-3f1b9.firebaseapp.com",
+  databaseURL: "https://tinder-clone-3f1b9.firebaseio.com",
+  projectId: "tinder-clone-3f1b9",
+  storageBucket: "tinder-clone-3f1b9.appspot.com",
+  messagingSenderId: "975661845145",
+  appId: "1:975661845145:web:a7056a4d854d4abc2f0608",
 };
 
 const app = !firebase.apps.length

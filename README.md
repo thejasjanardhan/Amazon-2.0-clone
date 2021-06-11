@@ -17,17 +17,14 @@ This will start a server on [localhost:3000](http://localhost:3000)
 
 There are environment variables to setup.
 
-* Authentication
-  * GOOGLE_ID
-  * GOOGLE_SECRET
-  * NEXTAUTH_URL
-* Stripe
-  * STRIPE_PUBLIC_KEY
-  * STRIPE_SECRET_KEY
-
-* Stripe Terminal/CLI
-  * STRIPE_SIGNING_SECRET
-* HOST
+- Authentication
+  - GOOGLE_ID
+  - GOOGLE_SECRET
+  - NEXTAUTH_URL
+- Stripe
+  - STRIPE_PUBLIC_KEY
+  - STRIPE_SECRET_KEYz
+- HOST
 
 So you will need to setup Stripe, Firebase (Firestore and Authentication) in order to get this to work
 
